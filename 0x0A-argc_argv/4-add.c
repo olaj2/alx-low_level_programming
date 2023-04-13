@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - fuction area
+ * main - program that adds positive numbers.
  * @argc: nunmber of arguments
  * @argv: an array of string
  *
